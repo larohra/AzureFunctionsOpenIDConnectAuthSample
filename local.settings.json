@@ -1,0 +1,9 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=fakefuncsa;AccountKey=zUGzjIZRwSYU03HgPLphNBH/LBEa1WqEtFaxZasP2P36FlmqWrF+YeZXaI4zmyXjlRMFEgGbqtybH56zg2T66Q==;EndpointSuffix=core.windows.net",
+        "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+        "EmailSender": "fakeidaccount@otmail.com",
+        "SendGridApiKey": "SG.gkILf-jmTpW0pPvulrsAQg.Y41a5oYCakQAW22T5j23mHBycq94xzVOVF483KBl4asdf"
+    }
+}
