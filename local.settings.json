@@ -5,6 +5,7 @@
         "FUNCTIONS_WORKER_RUNTIME": "dotnet",
         "EmailSender": "fakeidaccount@otmail.com",
         "SendGridApiKey": "SG.gkILf-jmTpW0pPvulrsAQg.Y41a5oYCakQAW22T5j23mHBycq94xzVOVF483KBl4asdf",
-      "AccountKeyWithoutName": "DefaultEndpointsProtocol=https;AccountKey=zUGzjIZRwSYU03HgPLphNBH/LBEa1WqEtFaxZasP2P36FlmqWrF+YeZXaI4zmyXjlRMFEgGbqtybH56zg2T66Q==;EndpointSuffix=core.windows.net"
+      "AccountKeyWithoutName": "DefaultEndpointsProtocol=https;AccountKey=zUGzjIZRwSYU03HgPLphNBH/LBEa1WqEtFaxZasP2P36FlmqWrF+YeZXaI4zmyXjlRMFEgGbqtybH56zg2T66Q==;EndpointSuffix=core.windows.net",
+      "BlobSas": "https://fakeuserghazdo.blob.core.windows.net/secret-blob?sp=r&st=2024-03-06T16:50:24Z&se=2024-03-07T00:50:24Z&spr=https&sv=2022-11-02&sr=c&sig=Yr3TVwijRLmfyu4fMtK%2BwsHgNXK%2BpBzyiJuo%2BbtpJ0M%3D"
     }
 }
