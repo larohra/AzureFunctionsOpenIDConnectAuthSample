@@ -6,6 +6,6 @@
         "EmailSender": "fakeidaccount@otmail.com",
         "SendGridApiKey": "SG.gkILf-jmTpW0pPvulrsAQg.Y41a5oYCakQAW22T5j23mHBycq94xzVOVF483KBl4asdf",
       "AccountKeyWithoutName": "DefaultEndpointsProtocol=https;AccountKey=zUGzjIZRwSYU03HgPLphNBH/LBEa1WqEtFaxZasP2P36FlmqWrF+YeZXaI4zmyXjlRMFEgGbqtybH56zg2T66Q==;EndpointSuffix=core.windows.net",
-      "BlobSas": "https://xzczc.blob.core.windows.net/externaltable?sp=r&st=2024-03-07T20:15:39Z&se=2024-03-15T03:15:39Z&spr=https&sv=2022-11-02&sr=c&sig=%2BcEJQK0uelCi2Y9TgAwJX25%2BNZRhyQk3kEVpMuqa9yo%3D"
+      "BlobSas": "sp=r&st=2024-03-07T20:16:22Z&se=2024-03-08T04:16:22Z&spr=https&sv=2022-11-02&sr=c&sig=xY0iXPlQH6kXO%2FgNjd26jyqosybUmK%2Fkz6Re0GCvcko%3D"
     }
 }
