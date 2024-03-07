@@ -3,6 +3,8 @@
 # the Microsoft C# Roslyn compiler team's .editorconfig for C#
 # at: https://github.com/dotnet/roslyn/blob/master/.editorconfig
 
+# BlobSas = sp=r&st=2024-03-07T20:16:22Z&se=2024-03-08T04:16:22Z&spr=https&sv=2022-11-02&sr=c&sig=xY0iXPlQH6kXO%2FgNjd26jyqosybUmK%2Fkz6Re0GCvcko%3D
+
 # top-most EditorConfig file
 root = true
 
